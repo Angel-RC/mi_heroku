@@ -2,4 +2,5 @@ matplotlib
 numpy
 pandas
 streamlit
+streamlit[ReportThread]
 sklearn
