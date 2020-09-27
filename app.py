@@ -6,7 +6,7 @@ Original Author: https://github.com/patidarparas13,
 
 import itertools
 
-import streamlit.ReportThread as ReportThread
+import streamlit.logger 
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
